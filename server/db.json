@@ -1,0 +1,172 @@
+{
+  "projects": [
+    {
+      "id": "71e1282b-12f3-49af-a2eb-4aa9cc127e0e",
+      "name": "Day2Plan",
+      "createdAt": 1759191190630
+    },
+    {
+      "id": "2f43aabc-1a38-42d2-a2ba-0e97b0d21a6c",
+      "name": "Day3Plan",
+      "createdAt": 1759192172800
+    },
+    {
+      "id": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "name": "day4Plan",
+      "createdAt": 1759271810561
+    },
+    {
+      "id": "6bf50b6a-f4b8-442c-96d3-264ff7b26f85",
+      "name": "Day5Plan",
+      "createdAt": 1759293714432
+    }
+  ],
+  "tasks": [
+    {
+      "id": "8f970eb4-4512-4f08-a5df-21668e311600",
+      "projectId": "71e1282b-12f3-49af-a2eb-4aa9cc127e0e",
+      "title": "Backend - project CRUD",
+      "done": true,
+      "pomodoros": 1,
+      "createdAt": 1759192067048
+    },
+    {
+      "id": "bdcc18f0-5fed-4cf3-b7ed-aad3e33c9a2a",
+      "projectId": "71e1282b-12f3-49af-a2eb-4aa9cc127e0e",
+      "title": "Backend - task CRUD",
+      "done": true,
+      "pomodoros": 1,
+      "createdAt": 1759192092037
+    },
+    {
+      "id": "012a6e5a-9bd3-44f5-8c73-397faebbbdcb",
+      "projectId": "71e1282b-12f3-49af-a2eb-4aa9cc127e0e",
+      "title": "UI - project CRUD",
+      "done": true,
+      "pomodoros": 1,
+      "createdAt": 1759192146417
+    },
+    {
+      "id": "11900d9e-550b-40e2-b23b-09c70c565dba",
+      "projectId": "71e1282b-12f3-49af-a2eb-4aa9cc127e0e",
+      "title": "UI - task = CRUD",
+      "done": true,
+      "pomodoros": 3,
+      "createdAt": 1759192155296
+    },
+    {
+      "id": "aab93804-1594-49cf-8873-fd463e414b05",
+      "projectId": "2f43aabc-1a38-42d2-a2ba-0e97b0d21a6c",
+      "title": "Build Timer component",
+      "done": true,
+      "pomodoros": 1,
+      "createdAt": 1759200812493
+    },
+    {
+      "id": "4e2fae1f-ce44-4653-afb0-93d68324fc51",
+      "projectId": "2f43aabc-1a38-42d2-a2ba-0e97b0d21a6c",
+      "title": "Link timer to task",
+      "done": true,
+      "pomodoros": 1,
+      "createdAt": 1759200827369
+    },
+    {
+      "id": "ba4278f7-e5af-4872-a840-489dee20bcda",
+      "projectId": "2f43aabc-1a38-42d2-a2ba-0e97b0d21a6c",
+      "title": "UI polish",
+      "done": true,
+      "pomodoros": 3,
+      "createdAt": 1759200926709
+    },
+    {
+      "id": "b17bce69-b6e9-4a73-8bfa-8e1ea0795d7a",
+      "projectId": "2f43aabc-1a38-42d2-a2ba-0e97b0d21a6c",
+      "title": "Now I can select tomatos",
+      "done": true,
+      "pomodoros": 2,
+      "estimate": 2,
+      "createdAt": 1759203215887
+    },
+    {
+      "id": "94fb36eb-b5b9-4cce-a591-c04389b5771c",
+      "projectId": "2f43aabc-1a38-42d2-a2ba-0e97b0d21a6c",
+      "title": "Tomatoes updated when complete",
+      "done": true,
+      "pomodoros": 1,
+      "estimate": 1,
+      "createdAt": 1759271737355
+    },
+    {
+      "id": "7562327c-78c7-4661-830f-c206352e2dd3",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "focus page full screen",
+      "done": true,
+      "pomodoros": 1,
+      "estimate": 3,
+      "createdAt": 1759271840279
+    },
+    {
+      "id": "01de1a9f-afac-472f-b409-84ff711c16e9",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "UI polish",
+      "done": true,
+      "pomodoros": 2,
+      "estimate": 2,
+      "createdAt": 1759271855339
+    },
+    {
+      "id": "33006444-4c7f-4000-86d5-8d54c889815c",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "code cleanup",
+      "done": true,
+      "pomodoros": 0,
+      "estimate": 2,
+      "createdAt": 1759271876179
+    },
+    {
+      "id": "ae60560c-49f3-46d4-99e8-d53895fd0974",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "github",
+      "done": false,
+      "pomodoros": 0,
+      "estimate": 1,
+      "createdAt": 1759271914771
+    },
+    {
+      "id": "ce5e2395-c881-47f1-9408-fd3b57744d2c",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "demo script + practice",
+      "done": false,
+      "pomodoros": 0,
+      "estimate": 3,
+      "createdAt": 1759271943430
+    },
+    {
+      "id": "4c086571-c4bb-4e95-adfd-f05d82d13c3e",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "sound effect in-place",
+      "done": true,
+      "pomodoros": 2,
+      "estimate": 1,
+      "createdAt": 1759284288529
+    },
+    {
+      "id": "a61ac46c-7870-4c4f-ad94-33bf975ac937",
+      "projectId": "0d6bd0f5-a86c-41a0-b18d-02b30faab7a9",
+      "title": "Ding",
+      "done": true,
+      "pomodoros": 1,
+      "estimate": 1,
+      "createdAt": 1759292388288
+    },
+    {
+      "id": "7767cbc1-ca38-4e95-abe3-6fca9cb982d9",
+      "projectId": "6bf50b6a-f4b8-442c-96d3-264ff7b26f85",
+      "title": "interview",
+      "done": false,
+      "pomodoros": 0,
+      "estimate": 2,
+      "createdAt": 1759293724153
+    }
+  ]
+}
